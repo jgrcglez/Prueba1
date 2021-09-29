@@ -1,5 +1,6 @@
 .env
 .idea
+.vscode
 venv
 db.sqlite3
 frontend/node_modules
